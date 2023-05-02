@@ -1,0 +1,12 @@
+server:
+  port: 8111
+  error:
+    whitelabel:
+      enabled: false
+
+spring:
+  application:
+    name: promit-spring
+
+
+
